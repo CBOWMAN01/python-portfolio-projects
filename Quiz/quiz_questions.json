@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "A. Paris",
+            "B. Berlin",
+            "C. London",
+            "D. Rome"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "options": [
+            "A. 10",
+            "B. 12",
+            "C. 13",
+            "D. 14"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Which language is this program written in?",
+        "options": [
+            "A. Java",
+            "B. C++",
+            "C. Python",
+            "D. Ruby"
+        ],
+        "answer": "C"
+    }
+]
